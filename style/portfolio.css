@@ -53,6 +53,11 @@ nav li {
 }
 
 /* banner area */
+.btn-primary {
+    color: #FFF8F3;
+    font-size: 20px;
+}
+
 
 
 .banner {
